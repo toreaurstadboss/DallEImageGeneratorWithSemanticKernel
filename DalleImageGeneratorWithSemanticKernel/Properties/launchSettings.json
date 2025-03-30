@@ -1,0 +1,10 @@
+{
+    "profiles": {
+      "UseSemanticKernelFromNET": {
+        "commandName": "Project",
+        "environmentVariables": {
+          "OPENAI_API_KEY": "TODO_ENTER_YOUR_OPENAI_API_KEY"
+        }
+      }
+    }
+  }

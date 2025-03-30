@@ -1,0 +1,17 @@
+{
+    "configurations": [
+    {
+        "name": ".NET Core Launch (console)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/DalleImageGeneratorWithSemanticKernel/bin/Debug/net8.0/DalleImageGeneratorWithSemanticKernel.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "stopAtEntry": false,
+        "console": "externalTerminal",
+        "internalConsoleOptions": "neverOpen"
+    }
+    ]
+  
+}
