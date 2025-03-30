@@ -14,6 +14,12 @@
 
 This project demonstrates a console application that integrates DALL-E 3 image generation with Microsoft Semantic Kernel. The application leverages Semantic Kernel's capabilities to enhance prompt engineering and streamline the process of generating AI-driven images.
 
+Screenshot of an image that was generated with this console app:
+
+![alt text](image-1.png)
+
+
+
 #### Pros of Using Microsoft Semantic Kernel:
 - **Enhanced Prompt Engineering**: Semantic Kernel simplifies crafting and managing prompts for AI models.
 - **Extensibility**: Easily integrates with various AI services and tools.
