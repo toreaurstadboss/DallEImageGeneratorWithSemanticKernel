@@ -71,7 +71,7 @@ public static class TextToImageServiceExtensions
             };
             if (!supportedSizes.Contains(size))
             {
-                throw new ArgumentException("For DALL-E 3, the size must be one of: 256x256, 512x512, or 1024x1024.");
+                throw new ArgumentException("For DALL-E 3, the size must be one of: 1024x1024, 1792x1024 or 1024x1792.");
             }
         }
 
