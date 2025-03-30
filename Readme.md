@@ -16,7 +16,7 @@ This project demonstrates a console application that integrates DALL-E 3 image g
 
 Screenshot of an image that was generated with this console app:
 
-![alt text](image-1.png)
+![alt text](GeneratedImageFromDemo.png)
 
 
 
